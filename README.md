@@ -1,3 +1,4 @@
 # FioCRM
 The Free Innovative and Opensource CRM software
-![My project](https://user-images.githubusercontent.com/90004142/161133408-cf880e50-984f-4479-909d-621579e246e1.png)
+
+![server-layout](https://user-images.githubusercontent.com/90004142/161133787-1448f0e1-4be6-4375-842a-79432d4b0f20.png)
